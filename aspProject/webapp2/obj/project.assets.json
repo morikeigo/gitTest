@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ec2-user/aspProject/webapp2/webapp2.csproj",
+      "projectUniqueName": "/home/ec2-user/gitTest/aspProject/webapp2/webapp2.csproj",
       "projectName": "webapp2",
-      "projectPath": "/home/ec2-user/aspProject/webapp2/webapp2.csproj",
+      "projectPath": "/home/ec2-user/gitTest/aspProject/webapp2/webapp2.csproj",
       "packagesPath": "/home/ec2-user/.nuget/packages/",
-      "outputPath": "/home/ec2-user/aspProject/webapp2/obj/",
+      "outputPath": "/home/ec2-user/gitTest/aspProject/webapp2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/home/ec2-user/dotnet/sdk/NuGetFallbackFolder"
